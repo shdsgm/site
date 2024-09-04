@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb73b2d0.css",
+    "main.js": "/static/js/main.eaf173ac.js",
+    "static/media/firstScreen-main.jpg": "/static/media/firstScreen-main.fbf0f1022a31d05af753.jpg",
+    "static/media/about-main.jpg": "/static/media/about-main.4a979bb4f9979b116ed0.jpg",
+    "static/media/firstScreen-sub.jpg": "/static/media/firstScreen-sub.51d74ecc3627fb17ab37.jpg",
+    "static/media/KiyosunaSans-Bold.otf": "/static/media/KiyosunaSans-Bold.75a63f38ba132b901e15.otf",
+    "static/media/KiyosunaSans-Light.otf": "/static/media/KiyosunaSans-Light.b9f0fd5a06f5e8352eef.otf",
+    "static/media/flag.svg": "/static/media/flag.617eaea6fa2654849983f9e7e724306f.svg",
+    "static/media/logo-subtitle.svg": "/static/media/logo-subtitle.25e5da86218cf354d49fdf348ef26d1c.svg",
+    "static/media/logo-title.svg": "/static/media/logo-title.cd99204b6a544e7cddcee9970c8105af.svg",
+    "static/media/icons.svg": "/static/media/icons.c3b25ba89782ba518ac815d19587b587.svg",
+    "index.html": "/index.html",
+    "main.cb73b2d0.css.map": "/static/css/main.cb73b2d0.css.map",
+    "main.eaf173ac.js.map": "/static/js/main.eaf173ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb73b2d0.css",
+    "static/js/main.eaf173ac.js"
+  ]
+}
